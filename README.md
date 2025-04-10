@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bringing a trading and monetisation perspective to cutting edge technologies 
 - 📫 How to reach me ...by email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love chinese food so much that as a child when asked what would you like to do when older I always answered to marry a chinese cook!
+- ⚡ Fun fact: I love chinese food so much!.... that as a child.. when asked: what would you like to do when older? I always answered: "marry a chinese cook!"
 
 <!---
 marianella1/marianella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
