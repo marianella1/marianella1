@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marianella1
-- 👀 My first project was the Y2K, you know when people was crazy worried about the 2 digits in most coding in the financial sector cause a crash in the markets!
+- 👀 My first project was the Y2K, you know when people was crazy worried about the 2 digits dates YY in most dates programs in the financial sector was feared would cause a crash in the markets!
 - 🌱 I’m currently learning arabic and cyber security!!
 - 💞️ I’m looking to collaborate on bringing a trading and monetisation perspective to cutting edge technologies 
 - 📫 How to reach me ...by email
