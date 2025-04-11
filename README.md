@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @marianella1
-- 👀 My first project was the Y2K, you know when people was crazy worried about the 2 digits dates YY in most dates programs in the financial sector was feared would cause a crash in the markets!
-- 🌱 I’m currently learning arabic and cyber security!!
-- 💞️ I’m looking to collaborate on bringing a trading and monetisation perspective to cutting edge technologies 
-- 📫 How to reach me ...by email
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love chinese food so much!.... that as a child.. when asked: what would you like to do when older? I always answered: "marry a chinese cook!"
-
-<!---
-marianella1/marianella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey, I’m @marianella1 — think strategy meets code, with a dash of curiosity and spice.
+🕰️ First gig? Y2K. When the world feared a financial digital apocalypse, I helped keep the lights on.
+🔐 Currently deep-diving into Arabic and cyber security — because language and systems both deserve to be decoded.
+📈 I bring a monetisation and trading lens to frontier tech — let’s build what’s next, and make it profitable.
+📬 Reach out via email — always open to sharp ideas and sharp minds.
+💬 Pronouns: she/her
+🍷 Fun fact: I once tried eating dinner at 6pm… and spent the rest of the evening wondering if it was a snack or a mistake.
